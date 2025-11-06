@@ -52,10 +52,10 @@ const Resume = () => {
               <span className={styles.date}>2025 - 2026</span>
             </div>
             <p className={styles.educationDescription}>
-              Completing 800+ hours of full-stack development training focused on
-              JavaScript, React, Node.js, Express, SQL, and testing. Built and
-              deployed responsive web apps with RESTful APIs, version control,
-              and real-world debugging strategies.
+              Completing 800+ hours of full-stack development training focused
+              on JavaScript, React, Node.js, Express, SQL, and testing. Built
+              and deployed responsive web apps with RESTful APIs, version
+              control, and real-world debugging strategies.
             </p>
           </div>
         </div>
